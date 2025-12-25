@@ -18,8 +18,8 @@ st.set_page_config(
 # CONSTANTS
 # ============================
 # TODO: Replace these with your actual Google Sheet links
-IELTS_SHEET_LINK = "YOUR_IELTS_SHEET_LINK_HERE"
-APTIS_SHEET_LINK = "YOUR_APTIS_SHEET_LINK_HERE"
+IELTS_SHEET_LINK = "https://docs.google.com/spreadsheets/d/1rxO0DSqjaevC5rvuCpwU0Z94jTZZ_PVt72Vnu44H5js/edit?usp=sharing"
+APTIS_SHEET_LINK = "https://docs.google.com/spreadsheets/d/1aNcZnUa5JhKE-IQ_xyJRzx7F9P5C2WbnDwO0lVQPWPU/edit?usp=sharing"
 
 # ============================
 # SESSION STATE INITIALIZATION
