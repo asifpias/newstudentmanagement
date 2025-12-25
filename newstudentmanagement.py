@@ -1,9 +1,9 @@
 import streamlit as st
+import gspread
 import pandas as pd
 from google.oauth2.service_account import Credentials
 from datetime import datetime
 import time
-import re
 
 # ============================
 # PAGE CONFIGURATION
